@@ -1,7 +1,6 @@
-# title(){
-		
-		return this.options.title || this.options.name;
-	}
+## A message from Scrimba
+
+I created this extension by following a course on Scrimba.
 
 ## Supporting Scrimba
 
